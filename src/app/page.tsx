@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useEffect } from "react";
+import { useState } from "react";
 import { VerifyButton } from "@/components/VerifyButton";
 
 export default function Page() {
